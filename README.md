@@ -23,10 +23,10 @@ Dreams for Developer
 <h3>😎 Main<h3>
 <br/>
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> 
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 
 <br/>
 
@@ -37,6 +37,14 @@ Dreams for Developer
 ------------------
 <br/>
 <h3>🤩 Tasting<h3>
+
+<br/>
+
+ <img src="https://img.shields.io/badge/Spring Webflux-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">
 
 <br/>
  
